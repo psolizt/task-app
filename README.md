@@ -2,7 +2,7 @@
 
 ¡Hola! Esta es una aplicación desarrollada con React que representa un gestor de tareas.
 
-Esta aplicacion fue realizada segun la explicacion de [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN), incluyendo los retos que propone al finalizar esta aplicacion como separar el logo en un componente, y mantener la informacion cuando vuelvas a cargar la pagina.
+Esta aplicacion fue realizada segun la explicacion de [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN), incluyendo los retos que propone al finalizar esta aplicacion como separar el logo en un componente y mantener la informacion cuando vuelva a cargar la pagina.
 
 ## Ejecutar la Aplicación
 Para iniciar la aplicación, debes ejecutar el comando `npm start` en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado `ctrl + ñ` si tu teclado está en español y con ```ctrl + ` ``` si tu teclado está en inglés. 
